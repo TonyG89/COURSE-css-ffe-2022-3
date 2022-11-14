@@ -1,0 +1,39 @@
+body {
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+
+p {
+    padding: 20px 0;
+    margin: 0;
+}
+
+ul {
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+img {
+    width: 120px;
+    float: left;
+    padding-right: 20px;
+}
+
+span {
+    font-style: italic;
+}
+
+.container {
+    margin: 0 auto;
+    width: 800px;
+}
+
+.author {
+    text-align: end;
+}
